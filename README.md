@@ -1,4 +1,4 @@
-## Run okedex project
+## Run Pokedex project
 In the project directory, you can run:
 
 ### `npm start`
